@@ -1,7 +1,7 @@
 
 # ChatBot API in Node.Js
 
-simple API for connect the [ChatBot](https://github.com/rebal221/ChatBot) with this flutter app [vicky](https://github.com/rebal221/vicky)
+simple API for connect the [ChatBot]https://github.com/Thaar-Abo-shah/ChatBot) with this flutter app [vicky Virtual-Assistant](https://github.com/Thaar-Abo-shah/Virtual-Assistant)
 ## Installation
 
 run the command in the terminal
